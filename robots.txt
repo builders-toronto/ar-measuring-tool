@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://builders-toronto.github.io/ar-measuring-tool/sitemap.xml
